@@ -1,0 +1,26 @@
+#+startup: overview
+#+title: Command Line
+
+* Cheatsheet
+
+- [[https://gist.github.com/hofmannsven/8392477][github.com/hofmannsven]]
+
+* Curl
+
+Curl adalah /command line/ untuk transfer data (/download/).
+
+- Cek versi: $ curl --version
+
+*Referensi*
+
+[[https://curl.se/][curl]]
+
+* Wget
+
+- simple file download
+
+:    $ wget https://raw.githubusercontent.com/yohanfs/Git/master/README.rst
+
+*Referensi*
+
+[[https://www.gnu.org/software/wget/][wget]]

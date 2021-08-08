@@ -1,0 +1,41 @@
+* Command Line
+  :PROPERTIES:
+  :CUSTOM_ID: command-line
+  :END:
+
+*Daftar Isi*
+
+** Cheatsheet
+   :PROPERTIES:
+   :CUSTOM_ID: cheatsheet
+   :END:
+
+- [[https://gist.github.com/hofmannsven/8392477][github.com/hofmannsven]]
+
+** Curl
+   :PROPERTIES:
+   :CUSTOM_ID: curl
+   :END:
+
+Curl adalah /command line/ untuk transfer data (/download/).
+
+- Cek versi: $ curl --version
+
+*Referensi*
+
+[[https://curl.se/][curl]]
+
+** Wget
+   :PROPERTIES:
+   :CUSTOM_ID: wget
+   :END:
+
+- simple file download
+
+#+BEGIN_EXAMPLE
+    $ wget https://raw.githubusercontent.com/yohanfs/Git/master/README.rst
+#+END_EXAMPLE
+
+*Referensi*
+
+[[https://www.gnu.org/software/wget/][wget]]
